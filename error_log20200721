@@ -1,0 +1,12 @@
+[Tue Jul 21 02:43:30 2020] [error] [client 209.17.97.82] Directory index forbidden by Options directive: /home/storage/2/b2/7d/aygus/public_html/
+[Tue Jul 21 02:45:01 2020] [error] [client 38.18.46.187] Directory index forbidden by Options directive: /home/storage/2/b2/7d/aygus/public_html/
+[Tue Jul 21 08:23:47 2020] [error] [client 45.187.129.131] PHP Parse error:  syntax error, unexpected '[' in /home/storage/2/b2/7d/aygus/public_html/apps/serviceCovid19/index.php on line 24
+[Tue Jul 21 08:34:42 2020] [error] [client 45.187.129.131] PHP Parse error:  syntax error, unexpected '{' in /home/storage/2/b2/7d/aygus/public_html/apps/serviceCovid19/FileManager.php on line 46
+[Tue Jul 21 09:19:07 2020] [error] [client 45.187.129.131] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 24 bytes) in /home/storage/2/b2/7d/aygus/public_html/apps/serviceCovid19/Program.php on line 31
+[Tue Jul 21 13:28:16 2020] [error] [client 37.152.183.96] File does not exist: /home/storage/2/b2/7d/aygus/public_html/wp-login.php, referer: http://aygus.com/wp-login.php
+[Tue Jul 21 13:32:26 2020] [error] [client 173.252.95.4] Directory index forbidden by Options directive: /home/storage/2/b2/7d/aygus/public_html/
+[Tue Jul 21 19:13:02 2020] [error] [client 192.99.149.195] File does not exist: /home/storage/2/b2/7d/aygus/public_html/admin, referer: http://www.aygus.com/admin/
+[Tue Jul 21 20:54:12 2020] [error] [client 45.187.129.131] File does not exist: /home/storage/2/b2/7d/aygus/public_html/icons, referer: https://www.aygus.com/apps/
+[Tue Jul 21 20:54:14 2020] [error] [client 45.187.129.131] File does not exist: /home/storage/2/b2/7d/aygus/public_html/favicon.ico, referer: https://www.aygus.com/apps/
+[Tue Jul 21 20:55:01 2020] [error] [client 45.187.129.131] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 24 bytes) in /home/storage/2/b2/7d/aygus/public_html/apps/serviceCovid19/Program.php on line 31
+[Tue Jul 21 21:03:16 2020] [error] [client 45.187.129.131] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/storage/2/b2/7d/aygus/public_html/apps/serviceCovid19/Program.php on line 31
